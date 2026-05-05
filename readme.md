@@ -188,6 +188,8 @@ Woodhill Hotel & Restaurant: your cozy haven nestled in the heart of Nainital. L
 ![Screenshot (19)](https://github.com/user-attachments/assets/2bbce452-b8d5-439e-bea3-96f95beab726)
 ![Screenshot (20)](https://github.com/user-attachments/assets/fb184365-935c-4416-9b7e-50245f1537c3)
 ![Screenshot (21)](https://github.com/user-attachments/assets/c9236e15-1d5a-4009-b5aa-26dd926c56be)
+<img width="1920" height="1080" alt="Screenshot (528)" src="https://github.com/user-attachments/assets/825d0797-f856-4085-9d4d-8af1c8accde9" />
+<img width="1920" height="1080" alt="Screenshot (528)" src="[https://github.com/user-attachments/assets/825d0797-f856-4085-9d4d-8af1c8accde9](https://github.com/user-attachments/assets/e7e25b60-ef21-4bac-8261-98ee26b951b0)" />
 
 React: Frontend library for building user interfaces.
 Node.js: JavaScript runtime for server-side development.
