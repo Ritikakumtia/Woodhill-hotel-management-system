@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (529)" src="https://github.com/user-attachments/assets/6143cec0-e64d-46ba-a3d3-213c8635d1db" />
 # 🌿 Woodhill – Hotel Booking Web App
 
 A modern full-stack hotel booking web application built with **React, Tailwind CSS, Node.js, and Express**.
