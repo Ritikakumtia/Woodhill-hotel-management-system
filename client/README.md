@@ -1,31 +1,173 @@
-# React & Tailwind CSS Starter Pack
+# 🌿 Woodhill – Hotel Booking Web App
 
-This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
+A modern full-stack hotel booking web application built with **React, Tailwind CSS, Node.js, and Express**.
+Includes authentication, room browsing, booking system, and live chat support.
 
-## Usage
+---
 
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
+## 🚀 Features
 
-1. Clone the repository to your local machine.
-    ```sh
-    git clone https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git
-    ```
+### 🏨 Core Features
 
-1. Install the required packages.
-    ```sh
-    cd react-tailwind-css-starter-pack
-    npm install
-    ```
+* Browse hotel rooms with details
+* Dynamic room pages (`/room/:roomId`)
+* User authentication (Login/Register)
+* Protected dashboard (Private Routes)
+* Booking system (secured APIs)
 
-1. Start the development server.
-    ```sh
-    npm start
-    ```
-1. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
-1. Create your React components and add your styles using Tailwind classes. You can also create new CSS files and import them into your components.
+### 🎨 UI/UX
 
-The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
+* Fully responsive design using **Tailwind CSS**
+* Modern footer with:
 
-## Contributing
+  * Quick links
+  * Services section
+  * Contact details
+  * Social media links
+* Smooth scroll & hover effects
 
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+### 💬 Live Chat Support
+
+* Integrated **Tawk.to live chat**
+* Footer chat trigger button
+* Real-time customer interaction
+
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+* React 18
+* React Router DOM
+* Tailwind CSS
+* Flowbite React
+* React Icons
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+
+---
+
+## 📁 Project Structure
+
+```
+client/
+ ├── src/
+ │   ├── components/
+ │   │   ├── Navbar.jsx
+ │   │   ├── Footer.jsx
+ │   │   ├── PrivateRoute.jsx
+ │   ├── pages/
+ │   │   ├── Home.jsx
+ │   │   ├── LoginPage.jsx
+ │   │   ├── RegisterPage.jsx
+ │   │   ├── Dashboard.jsx
+ │   ├── App.js
+
+server/
+ ├── routes/
+ │   ├── route.js
+ ├── controllers/
+ ├── models/
+ ├── index.js
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/your-username/woodhill.git
+cd woodhill
+```
+
+---
+
+### 2️⃣ Install Dependencies
+
+#### Frontend
+
+```bash
+cd client
+npm install
+```
+
+#### Backend
+
+```bash
+cd server
+npm install
+```
+
+---
+
+### 3️⃣ Run Project
+
+#### Start Backend
+
+```bash
+npm run dev
+```
+
+#### Start Frontend
+
+```bash
+npm start
+```
+
+---
+
+### 4️⃣ Open in Browser
+
+```
+http://localhost:3000
+```
+
+---
+
+## 🔌 API Endpoints
+
+
+
+---
+
+## 🔐 Authentication
+
+* JWT-based authentication
+* Protected routes using `PrivateRoute`
+* Secure API calls
+
+---
+
+## 🎯 Future Improvements
+
+* 📍 Google Maps integration
+* ⭐ Reviews & ratings
+* 📊 Admin dashboard
+
+---
+
+
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👩‍💻 Author
+
+**Ritika Kumtia**
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
