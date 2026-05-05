@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (529)" src="https://github.com/user-attachments/assets/6143cec0-e64d-46ba-a3d3-213c8635d1db" />
+
 # 🌿 Woodhill – Hotel Booking Web App
 
 A modern full-stack hotel booking web application built with **React, Tailwind CSS, Node.js, and Express**.
@@ -181,6 +181,9 @@ Woodhill Hotel & Restaurant: your cozy haven nestled in the heart of Nainital. L
 
 <img width="1920" height="1080" alt="Screenshot (528)" src="https://github.com/user-attachments/assets/825d0797-f856-4085-9d4d-8af1c8accde9" />
 <img width="1920" height="1080" alt="Screenshot (528)" src="[https://github.com/user-attachments/assets/825d0797-f856-4085-9d4d-8af1c8accde9](https://github.com/user-attachments/assets/e7e25b60-ef21-4bac-8261-98ee26b951b0)" />
+<img width="1920" height="1080" alt="Screenshot (529)" src="https://github.com/user-attachments/assets/6143cec0-e64d-46ba-a3d3-213c8635d1db" /><img width="1920" height="1080" alt="Screenshot (531)" src="https://github.com/user-attachments/assets/505df63a-e54e-478e-8263-45f3057ac49a" /><img width="1920" height="1080" alt="Screenshot (530)" src="https://github.com/user-attachments/assets/35045190-1d6d-4dc9-974f-f437b4d58eac" />
+
+
 
 React: Frontend library for building user interfaces.
 Node.js: JavaScript runtime for server-side development.
